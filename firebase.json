@@ -5,7 +5,7 @@
     ]
   },
   "hosting": {
-    "public": "public",
+    "public": "./functions/public",
     "rewrites": [{
       "source":"**",
       "function":"app"
